@@ -1,0 +1,17 @@
+{
+  "nodes": [
+	
+	{
+      "name": "EURO Node",
+      "url": "35.196.226.203",
+      "port": 11998,
+      "ssl": false
+    },
+    {
+      "name": "US NODE",
+      "url": "62.75.138.56",
+      "port": 11998,
+      "ssl": false
+    }
+  ]
+}
