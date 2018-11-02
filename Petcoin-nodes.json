@@ -14,8 +14,8 @@
       "ssl": false
     },
     {
-      "name": "xpet.cryptomine.space Main NODE",
-      "url": "xpetnode.cryptomine.space",
+      "name": "xpet.cryptomine.space SIMBA NODE",
+      "url": "xpet-simba.cryptomine.space",
       "port": 11998,
       "ssl": false
     },
